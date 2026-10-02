@@ -1,1 +1,1 @@
-# WindowsFormsApp3
+# Учебный мини-Excel на WinForms
