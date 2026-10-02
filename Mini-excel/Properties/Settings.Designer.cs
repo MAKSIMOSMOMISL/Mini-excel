@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Mini-excel.Properties
+namespace Mini_excel.Properties
 {
 
 

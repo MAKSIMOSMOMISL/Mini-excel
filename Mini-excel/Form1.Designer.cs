@@ -1,4 +1,4 @@
-﻿namespace Mini-excel
+﻿namespace Mini_excel
 {
     partial class Form1
     {

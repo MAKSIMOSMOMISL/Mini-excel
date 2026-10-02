@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Mini-excel
+namespace Mini_excel
 {
     internal static class Program
     {
