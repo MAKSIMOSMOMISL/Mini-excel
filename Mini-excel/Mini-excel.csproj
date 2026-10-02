@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1702A53A-5A9A-4998-9BBB-60B4A34D834A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Mini-excel</RootNamespace>
+    <RootNamespace>Mini_excel</RootNamespace>
     <AssemblyName>Mini-excel</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
